@@ -1,0 +1,8 @@
+//I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+// Name:           Md Rafi Al Arabi Bhuiyan
+// Student Number: 147307193
+// Email:          mraabhuiyan@myseneca.ca
+// Date:           21/6/2020
+
+Finishing this workshop successfully, I have gathered many aspects of knowledge from C++. Now, I have the ability to explain more detailed information about constructor and destructor. Also, in this workshop, we already practiced how to define both default constructor and custom constructor. By using the default constructor(Saiyan();) we learned to form an object to an empty state. Besides, we also create a custom constructor for initializing the object’s data during program making time. Also, we have created a destructor to allocate the memory in the constructor and make the memory free in the destructor so that the set () may not cause a memory leak. On the other hand, we also formed another function called (powerIncrement();) to increase the power of Super Saiyan. There’s another thing to notice on the program that we have removed the ‘const’ from function prototype so that the power can increase otherwise it may not allow us to change the values. Eventually, I think I have gained the most of this workshop. 
