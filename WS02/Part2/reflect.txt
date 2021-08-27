@@ -1,0 +1,15 @@
+//==============================================
+// Name:           Md Rafi Al Arabi Bhuiyan
+// Student Number: 147307193
+// Email:          mraabhuiyan@myseneca.ca
+// Section:        NBB
+// Date:           07-06-2020
+
+Completing this workshop, I have learned various valuable things of C++. Firstly, I have learned how to dynamically
+ allocate objects and generating more memory spaces when program needed. Secondly, using custom types is another 
+important part that I have learned while doing this workshop. We used custom type so that it could contain some 
+attribute or data members and we also had to declare a struct for that. Also, we learned how to declare ‘Boolean’ 
+function in programs which only returns value of ‘true’ or ‘false’ and basically, this is quite new for me which 
+I have never used or taught.  Until doing this workshop I was not so confident about pointer but after finishing 
+this workshop now I am better in using pointer than before. Eventually, there is a big part of this program which 
+is done by pointer. Though, it took me many hours to get done but after all, I have gained most of this workshop.
