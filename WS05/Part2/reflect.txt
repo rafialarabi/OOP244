@@ -1,0 +1,15 @@
+Name: Md Rafi Al Arabi Bhuiyan
+Student Id: 147307193
+Email: mraabhuiyan@myseneca.ca
+Reflection for Workshop 5 Part 2.
+Date: 28-06-2020
+
+Completing this workshop, I have gained many aspects of knowledge from C++.
+With this knowledge, now I am really very confident on writing program, making logic statement and another crucial thing which is creating class.
+I have learned not only creating class but also learned to code the relationship among multiple classes. 
+Also, we have learned to allocate dynamic memory for attributes (m_engines and m_type) in this workshop that allowed us to use any size of arrays. 
+As opposed to, we overloaded operators in this workshop as a member of class and another one as a helper function of a class which allows them to get user-defined meanings on user-defined classes. 
+Another thing to notice from that workshop, here we used two new library functions in our code those are totally new to me such as (#include <cctype, #include <sstream>) for the essence of code. 
+Here, in this workshop, we also used a friend helpers function  as a global function and that cannot be a member of the class cause there is no scope for friend helpers function in a class. 
+But it can be a member of another class. Overall, I faced so many difficulties while doing this workshop and it took me a lot of time to fix all those. 
+Finally, I think I have gathered the most of this workshops.
