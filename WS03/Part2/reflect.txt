@@ -1,0 +1,12 @@
+//I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+// Name:           Md Rafi Al Arabi Bhuiyan
+// Student Number: 147307193
+// Email:          mraabhuiyan@myseneca.ca
+// Date:           10/6/2020
+
+
+Completing this workshop, I have learned many valuable things of C++ which will help me in my long run.  
+Firstly, I have learned how to define a class type and there are a lot use of class in this workshop. By learning how to define a class type, it makes our work shorter and we can directly invoke the class type.
+Secondly, we also learned how to make data members private within the class type. Using this method, we can define who can access those data members. Also we learned, with the help of public member functions how we can access data within an object of class type. Beside, we learned use global constant in this workshop with whom we can set the value length of the variable or object. 
+Though, it was hard enough for me to finish this in a good manner, but I tried my best to finish it  following the instructions.
