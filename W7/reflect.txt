@@ -1,0 +1,9 @@
+/ /Name:           Md Rafi Al Arabi Bhuiyan
+// Student Number: 147307193
+// Email:          mraabhuiyan@myseneca.ca
+// Section:        NBB
+// Reflection for WS07 and MS02
+// Date:           19/07/2020
+
+
+Successfully completing this workshop, I have learned many interesting and crucial part of C++ language. In this workshop, we have learned and practiced ‘Inheritance’ between derived class and base class by inheriting some attributes from base class to derived class. Another important thing is ‘shadowing a base class member functions’ that we have learned while doing this workshop as well as accessing it. Also, we have implemented custom input and output operators with both base class and derived class. Beside, we used indentation on this code to set the required spaces for our programme. On the other hand, we also have finished Milestone 2 this week where we implemented a number of functions to design our programme. While doing this milestone, we also got revised about creating copy constructor, destructor and gathered experience managing multiple classes attributes between them. Also, I have faced a long time memory leak problem while running my code on Putty. After reading notes and watching my previous workshops and milestone, finally it get worked. Eventually, finishing this workshop and milestone, I have gathered most of this week contents.
