@@ -1,0 +1,8 @@
+Name: Md Rafi Al Arabi Bhuiyan
+Student Id: 147307193
+Section: NBB
+Reflection for Workshop 6
+Date: 09-07-2020
+
+
+Completing this workshop, I have learned a bunch of valuable topics from C++. Undoubtedly, now I am pretty confident on creating constructors and destructors as well as also good at using classes in a program. Also, we learned to manage a class with various resources. Beside, this workshop allowed us to declare variables and create function as we like to design our code. Consequently, we are now able to create better function as the program required more frequently than before, as we already used on our code some newly included functions. However, we have also learned to create copy constructor and copy assignment operator for the ease of writing code. In case of Milestone 1, we also created constructor and destructor as well as copy and assignment of them. Beside, in this milestone we were allowed to use variables and functions as we want. On the other hand, through this milestone we have also learned how to work with multiple classes in a program. Eventually, I have gained all contents of this week by completing workshop and milestone 1.
