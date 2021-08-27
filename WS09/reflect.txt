@@ -1,0 +1,7 @@
+Name: Md Rafi Al Arabi Bhuiyan
+Student Id: 147307193
+Reflection for WS09
+Date: 02-08-2020
+
+
+Successfully completing this workshop, I have learned a very interesting part of C++ which is function template. Here, I have learned how to code a function template for a program as well as how to develop a call to it and that can be generate with multiple types. Also, It can contain parameters and we can use them to pass a type like arguments. As opposed to, a template allow a function to work on multiple types and we do not need to re-code them for each again and again which means it also helps to reduce code-redundancy. Beside, in milestone 5 I have learned the use of derived class properly where we created ‘Car’ and ‘Motorcycle’ two derive class and ‘Vehicle’ is the base class from Milestone 4. Also, we implemented public overload operator that overrides the ‘Read’ function of the ‘Vehicle’ base class. Eventually, finishing the milestone and workshop, I mostly covered the materials of this week. 
