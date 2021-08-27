@@ -1,0 +1,6 @@
+Name: Md Rafi Al Arabi Bhuiyan
+Student Id: 147307193
+Reflection of Project
+Date: 10-08-2020
+
+Successfully completing this project, I have gathered most of the C++ practical experience of that course which will help me in my long run. In this workshop, I have learned the proper use of multiple classes and learnt it’s efficiency in a program and as well as how it works. Beside, I have learned the dynamic memory system such as how to allocate and deallocate memory. Most of the time of doing this project, I got stuck in every submission with ‘memory leak’ problem that took more time to get fixed than writing the code. Also, function overloading and overriding are the important parts of it. Here, I also learned to use Virtual function. Building constructor and destructor is another achievement from this project which I used in most of the files. On the other hand, I have learned the use ‘istream’ & ‘ostream’ who plays an important role here in the project. However, I learned to use a number of new library functions her such as: iomanip, fstream etc. Moreover, I basically got the overall of Inheritence, Polymorphism and Encapsulation. Eventually, finishing this project I hope I have gained the overview of this entire course and it is a great experience to complete this project. 
