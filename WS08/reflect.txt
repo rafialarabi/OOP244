@@ -1,0 +1,7 @@
+Name: Md Rafi Al Arabi Bhuiyan
+Student Id: 147307193
+Email: mraabhuiyan@myseneca.ca
+Reflection for WS08
+Date: 26-07-2020
+
+Completing this workshop, I have learned couple of important topics from C++. This workshop was about Virtual function that is declared on base class. Later on, we can define it by derived class through referencing among classes. Mainly, we use that in our program to call the exact function for the object. Also, it is known as runtime-polymorphism and these functions are declared with the word ‘virtual’ at first. In thois workshop, we have also learned how to define a pure virtual function which has no implementation and we declare it by assigning 0. It can be implemented by classes which will be derived form abstract class. An abstract class that contains a pure virtual functions which is why it has no implementation. And we also made an abstract class here on our workshop. The difference between abstract class and concrete class that abstract class may have implementation or partial implementation and concrete class has always a full implementation with it. Overall, I have learned the proper use pure virtual function while doing this workshop. 
